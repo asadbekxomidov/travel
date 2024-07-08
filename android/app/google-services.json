@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541526098551",
+    "project_id": "leeson6firebase",
+    "storage_bucket": "leeson6firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541526098551:android:b29cced930eebedd38bc72",
+        "android_client_info": {
+          "package_name": "com.example.dars_12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQ74FGdlqDa3iDCg-I0MJT7b8GoJhd4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
